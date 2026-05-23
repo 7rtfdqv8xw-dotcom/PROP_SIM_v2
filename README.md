@@ -1,5 +1,15 @@
 # BOS + IFVG · Prop Firm Simulator
 
+
+
+*Dieser Code ist ein Backtesting-Tool zu Bildungszwecken. Historische Ergebnisse sind keine Garantie für zukünftige Performance. Prop Firm Trading beinhaltet das Risiko des vollständigen Verlusts des eingesetzten Kapitals.*
+
+**!!** MAKE SURE TO CHECK INFORMATIONS AND RESULTS ON YOUR OWN **!!**
+
+**THIS CODE WAS MADE WITH THE ASSISTANCE OF AI**
+
+
+
 ## Idee
 
 Da „Prop Firms" (Proprietary Trading) in den letzten Jahren stark an Bedeutung gewonnen haben und es ermöglichen, mit wenig Eigenkapital am Futures-Markt zu partizipieren, habe ich systematisch getestet, ob und unter welchen Bedingungen man mit Prop Firms profitabel sein kann — auch mit einer Strategie, die isoliert betrachtet unter der Break-even-Schwelle liegt.
